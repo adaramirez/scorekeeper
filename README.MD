@@ -20,4 +20,4 @@ En esta parte se describe la funcionalidad del proyecto descrito en pasos.
 
 ## Diagrama de flujo:
 
-![Diagrama de flujo del problema SCOREKEEPER] (assets/img/Test.png)
+![Diagrama de flujo del problema SCOREKEEPER](assets\img\Test.png)
